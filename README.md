@@ -4,3 +4,5 @@ Projeto do curso de HTML e CSS da Alura, que faz parte do programa de formação
 
 
 ![image](https://user-images.githubusercontent.com/99370978/218474983-daa83f4b-fd0e-4abb-a3b9-2e29cd06ee4d.png)
+
+<a href="https://www.flaticon.com/br/icones-gratis/tesoura" title="tesoura ícones">Tesoura ícones criados por Freepik - Flaticon</a>
